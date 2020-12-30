@@ -1,0 +1,6 @@
+- image_path: /images/headshot.png
+  url: "http://google.com"
+  title: paper1
+- image_path: /images/outreach.JPG
+  url: "http://arxiv.org"
+  title: paper2
