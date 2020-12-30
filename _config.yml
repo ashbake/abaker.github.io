@@ -1,1 +1,4 @@
 theme: jekyll-theme-tactile
+name: Ashley Baker, Postdoc at Caltech
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
