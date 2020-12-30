@@ -1,3 +1,6 @@
 name: Ashley Baker, Postdoc at Caltech
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+header: images/outreach.JPG
+theme: minima
+repository: ashbake/ashbake.github.io
